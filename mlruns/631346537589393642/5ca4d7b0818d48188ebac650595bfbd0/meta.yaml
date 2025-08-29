@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/631346537589393642/5ca4d7b0818d48188ebac650595bfbd0/artifacts
+end_time: 1756429336764
+entry_point_name: ''
+experiment_id: '631346537589393642'
+lifecycle_stage: active
+run_id: 5ca4d7b0818d48188ebac650595bfbd0
+run_name: agreeable-ray-428
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756429333205
+status: 3
+tags: []
+user_id: prabh

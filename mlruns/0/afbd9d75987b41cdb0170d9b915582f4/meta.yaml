@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/afbd9d75987b41cdb0170d9b915582f4/artifacts
+end_time: 1756429299445
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: afbd9d75987b41cdb0170d9b915582f4
+run_name: industrious-chimp-33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756429295854
+status: 3
+tags: []
+user_id: prabh

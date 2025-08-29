@@ -1,0 +1,10 @@
+import dagshub
+dagshub.init(repo_owner='Prabhat9801', repo_name='Experiments-with-MLFlow', mlflow=True)
+
+import mlflow
+with mlflow.start_run():
+  mlflow.log_param('parameter name', 'value')
+  mlflow.log_metric('metric name', 1)
+
+
+https://dagshub.com/Prabhat9801/Experiments-with-MLFlow.mlflow

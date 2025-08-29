@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/631346537589393642/f6dcbb6611c649df9f269392f0cab743/artifacts
+end_time: 1756429764751
+entry_point_name: ''
+experiment_id: '631346537589393642'
+lifecycle_stage: active
+run_id: f6dcbb6611c649df9f269392f0cab743
+run_name: adorable-fly-119
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756429700450
+status: 3
+tags: []
+user_id: prabh
