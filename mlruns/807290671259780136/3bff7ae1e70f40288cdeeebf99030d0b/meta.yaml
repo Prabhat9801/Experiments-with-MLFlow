@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/prabh/OneDrive/Desktop/MLOPs/Experiments-with-MLFlow/mlruns/807290671259780136/3bff7ae1e70f40288cdeeebf99030d0b/artifacts
+end_time: 1756460921918
+entry_point_name: ''
+experiment_id: '807290671259780136'
+lifecycle_stage: active
+run_id: 3bff7ae1e70f40288cdeeebf99030d0b
+run_name: smiling-gnu-538
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756460920671
+status: 3
+tags: []
+user_id: prabh

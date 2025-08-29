@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/prabh/OneDrive/Desktop/MLOPs/Experiments-with-MLFlow/mlruns/807290671259780136/02ec0f7fe6964050a0d1de00284c7ffa/artifacts
+end_time: 1756460927664
+entry_point_name: ''
+experiment_id: '807290671259780136'
+lifecycle_stage: active
+run_id: 02ec0f7fe6964050a0d1de00284c7ffa
+run_name: bright-shoat-793
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756460927312
+status: 3
+tags: []
+user_id: prabh

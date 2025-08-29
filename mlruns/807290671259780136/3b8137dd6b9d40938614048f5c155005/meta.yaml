@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/prabh/OneDrive/Desktop/MLOPs/Experiments-with-MLFlow/mlruns/807290671259780136/3b8137dd6b9d40938614048f5c155005/artifacts
+end_time: 1756460983770
+entry_point_name: ''
+experiment_id: '807290671259780136'
+lifecycle_stage: active
+run_id: 3b8137dd6b9d40938614048f5c155005
+run_name: wise-wasp-760
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756460866517
+status: 3
+tags: []
+user_id: prabh

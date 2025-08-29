@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/prabh/OneDrive/Desktop/MLOPs/Experiments-with-MLFlow/mlruns/807290671259780136/4433fb0376a042968ff639a8d17f49c1/artifacts
+end_time: 1756460927250
+entry_point_name: ''
+experiment_id: '807290671259780136'
+lifecycle_stage: active
+run_id: 4433fb0376a042968ff639a8d17f49c1
+run_name: salty-sow-165
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756460926099
+status: 3
+tags: []
+user_id: prabh

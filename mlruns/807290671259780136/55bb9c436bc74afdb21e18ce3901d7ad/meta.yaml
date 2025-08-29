@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/prabh/OneDrive/Desktop/MLOPs/Experiments-with-MLFlow/mlruns/807290671259780136/55bb9c436bc74afdb21e18ce3901d7ad/artifacts
+end_time: 1756460922332
+entry_point_name: ''
+experiment_id: '807290671259780136'
+lifecycle_stage: active
+run_id: 55bb9c436bc74afdb21e18ce3901d7ad
+run_name: unleashed-tern-54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756460921975
+status: 3
+tags: []
+user_id: prabh

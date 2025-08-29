@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/prabh/OneDrive/Desktop/MLOPs/Experiments-with-MLFlow/mlruns/807290671259780136/b0d4e2cfde784dd08d668e0b0900274e/artifacts
+end_time: 1756460926019
+entry_point_name: ''
+experiment_id: '807290671259780136'
+lifecycle_stage: active
+run_id: b0d4e2cfde784dd08d668e0b0900274e
+run_name: adaptable-colt-122
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756460925554
+status: 3
+tags: []
+user_id: prabh

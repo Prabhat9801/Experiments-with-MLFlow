@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/prabh/OneDrive/Desktop/MLOPs/Experiments-with-MLFlow/mlruns/807290671259780136/30f8922da6aa4863b4457f6ecd324c20/artifacts
+end_time: 1756460793076
+entry_point_name: ''
+experiment_id: '807290671259780136'
+lifecycle_stage: active
+run_id: 30f8922da6aa4863b4457f6ecd324c20
+run_name: kindly-wasp-764
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756460647092
+status: 3
+tags: []
+user_id: prabh
